@@ -1,0 +1,24 @@
+h2{
+    color: rgb(255, 212, 127);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-weight: 600;
+}
+p{
+    color: rgb(127, 232, 255);
+    font-family: sans-serif;
+    font-style: inherit;
+    font-weight: 600;
+}
+h1{
+    color: rgb(174, 127, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+    font-weight: 600;  
+}
+body{
+    background-color: rgba(26, 134, 118, 0.568);
+}
+li{
+    color: rgb(0, 204, 255);
+}

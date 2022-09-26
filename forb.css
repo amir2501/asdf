@@ -1,0 +1,12 @@
+h1{
+    color: rgb(255, 77, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+body{
+    background-color: rgba(185, 135, 20, 0.574);
+}
+button{
+    background-color: rgb(89, 255, 80);
+    font-style: italic;
+}
